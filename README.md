@@ -17,3 +17,8 @@ messages:
   startup: "{servername} is now online"  
   shutdown: "{servername} is now offline"
   ```
+  
+  Commands:
+  
+  - /startupnotice - Shows plugin credits and links
+  - /startupnotice reload - Reloads configs

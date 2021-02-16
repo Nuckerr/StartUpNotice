@@ -1,0 +1,9 @@
+name: StartUpNotice
+version: 1.0
+main: wtf.nucker.startupnotice.StartUpNotice
+api-version: 1.16
+prefix: StartUpNotice
+load: STARTUP
+authors: [ Nucker ]
+description: Sends a webhook notice when a server starts/stops
+website: nucker.me

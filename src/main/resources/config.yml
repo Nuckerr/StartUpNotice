@@ -1,0 +1,5 @@
+webhook-url: "https://discord.com/api/webhooks/WebhookId/Webhook-token"
+servername: "A Minecraft Server"
+messages:
+  startup: "{servername} is now online"
+  shutdown: "{servername} is now offline"
